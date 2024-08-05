@@ -1,0 +1,14 @@
+{
+  "name": "playwright-api-testing-for-beginners",
+  "version": "1.0.0",
+  "description": "learning: https://www.youtube.com/watch?v=EEjyLfp6DoQ",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.1.0"
+  }
+}
